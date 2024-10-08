@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ashwini Unde</h1>
-<h3 align="center">Pursuing B.Tech </h3>
+
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAoTJjowRE6qWDsYQUKreaDKJCB0hDKtUBCQ&s">
 
 <h3 align="left">Languages and Tools:</h3>
