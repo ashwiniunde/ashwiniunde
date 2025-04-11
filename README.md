@@ -46,13 +46,6 @@ Skilled in Python, NLP, and machine learning, with a focus on data analysis and 
 
 ---
 
-### Let’s Connect
-
-I'm always open to collaborating on interesting projects or connecting with fellow techies.  
-Let’s build something meaningful together!
-
----
-
 ### Contact Me
 
 - **Email:** [ashwiniunde273@gmail.com](mailto:ashwiniunde273@gmail.com)  
