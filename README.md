@@ -1,12 +1,20 @@
 <h1 align="center">Hi 👋, I'm Ashwini Unde</h1>
 
 <p align="center">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAoTJjowRE6qWDsYQUKreaDKJCB0hDKtUBCQ&s" alt="Coding" width="400">
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.png" alt="Coding" width="400">
 </p>
 
 ---
 
-### **Skills & Tools**
+### About Me
+
+Third-year Computer Science Engineering student passionate about turning data into insights.  
+Skilled in Python, NLP, and machine learning, with a focus on data analysis and problem-solving.
+
+---
+
+### Skills & Tools
+
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
@@ -27,7 +35,8 @@
 
 ---
 
-### **Proficient In**
+### What I’m Good At and Learning 
+
 - Data Analysis & Visualization  
 - Natural Language Processing (NLP)  
 - Web Scraping  
@@ -37,4 +46,14 @@
 
 ---
 
-Feel free to connect or collaborate—I'm always excited to learn and build new things!
+### Let’s Connect
+
+I'm always open to collaborating on interesting projects or connecting with fellow techies.  
+Let’s build something meaningful together!
+
+---
+
+### Contact Me
+
+- **Email:** [ashwiniunde273@gmail.com](mailto:ashwiniunde273@gmail.com)  
+- **LinkedIn:** [linkedin.com/in/ashwini-unde-a2508626a](https://www.linkedin.com/in/ashwini-unde-a2508626a)
