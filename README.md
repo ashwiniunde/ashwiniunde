@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ashwini Unde</h1>
 
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.png" alt="Coding" width="400">
+  <img src="https://user-images.githubusercontent.com/74038190/212750416-b98ae9e1-28d5-4ec3-a911-8aa854f97e94.gif" alt="Coding" width="400">
 </p>
-
 ---
 
 ### About Me
@@ -13,6 +12,16 @@ Skilled in Python, NLP, and machine learning, with a focus on data analysis and 
 
 ---
 
+### What I’m Good At and Learning 
+
+- Data Analysis & Visualization  
+- Natural Language Processing (NLP)  
+- Web Scraping  
+- Machine Learning  
+- Data Cleaning & Preprocessing  
+- Database Management  
+
+---
 ### Skills & Tools
 
 <p align="left">
@@ -33,18 +42,7 @@ Skilled in Python, NLP, and machine learning, with a focus on data analysis and 
   </a>
 </p>
 
----
-
-### What I’m Good At and Learning 
-
-- Data Analysis & Visualization  
-- Natural Language Processing (NLP)  
-- Web Scraping  
-- Machine Learning  
-- Data Cleaning & Preprocessing  
-- Database Management  
-
----
+--
 
 ### Contact Me
 
