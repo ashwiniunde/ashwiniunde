@@ -1,10 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ashwini Unde</h1>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212750416-b98ae9e1-28d5-4ec3-a911-8aa854f97e94.gif" alt="Coding" width="400">
-</p>
----
-
 ### About Me
 
 Third-year Computer Science Engineering student passionate about turning data into insights.  
@@ -21,7 +16,7 @@ Skilled in Python, NLP, and machine learning, with a focus on data analysis and 
 - Data Cleaning & Preprocessing  
 - Database Management  
 
----
+
 ### Skills & Tools
 
 <p align="left">
@@ -42,7 +37,7 @@ Skilled in Python, NLP, and machine learning, with a focus on data analysis and 
   </a>
 </p>
 
---
+
 
 ### Contact Me
 
