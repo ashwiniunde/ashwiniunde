@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ashwini Unde</h1>
 
+---
+
 ### About Me
 
 Third-year Computer Science Engineering student passionate about turning data into insights.  
@@ -16,6 +18,7 @@ Skilled in Python, NLP, and machine learning, with a focus on data analysis and 
 - Data Cleaning & Preprocessing  
 - Database Management  
 
+---
 
 ### Skills & Tools
 
@@ -37,9 +40,25 @@ Skilled in Python, NLP, and machine learning, with a focus on data analysis and 
   </a>
 </p>
 
+---
 
+### 📊 GitHub Stats
 
-### Contact Me
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=ashwiniunde&show_icons=true&theme=tokyonight" alt="Ashwini's GitHub stats" />
+</p>
+
+---
+
+### 🚀 Top Languages
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashwiniunde&layout=compact&theme=tokyonight" alt="Ashwini's Top Languages" />
+</p>
+
+---
+
+### 📫 Contact Me
 
 - **Email:** [ashwiniunde273@gmail.com](mailto:ashwiniunde273@gmail.com)  
 - **LinkedIn:** [linkedin.com/in/ashwini-unde-a2508626a](https://www.linkedin.com/in/ashwini-unde-a2508626a)
