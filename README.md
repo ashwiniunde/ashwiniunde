@@ -9,16 +9,17 @@ Skilled in Python, NLP, and machine learning, with a focus on data analysis and 
 
 ---
 
-### What I’m Good At and Learning 
+### 🚀 What I'm Working On & Leveling Up 🚀
 
-- Data Analysis & Visualization  
-- Natural Language Processing (NLP)  
-- Web Scraping  
-- Machine Learning  
-- Data Cleaning & Preprocessing  
-- Database Management  
+<div align="center">
 
----
+| 📊 Data Skills | 🧠 AI & ML Skills | 🕸️ Web & DB Skills |
+|:-------------:|:-----------------:|:-----------------:|
+| Data Analysis & Visualization | Natural Language Processing (NLP) | Web Scraping |
+| Data Cleaning & Preprocessing | Machine Learning | Database Management |
+
+</div>
+
 
 ### Skills & Tools
 
@@ -37,6 +38,18 @@ Skilled in Python, NLP, and machine learning, with a focus on data analysis and 
   </a>
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
+  </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
+  </a>
+  <a href="https://isocpp.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
   </a>
 </p>
 
