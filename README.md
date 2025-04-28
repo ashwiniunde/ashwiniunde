@@ -13,27 +13,19 @@ Skilled in Python, NLP, and machine learning, with a focus on data analysis and 
 
 ### 🌟 Currently Working On & Learning 🚀
 
-<div align="center">
 
-<table>
-  <tr>
-    <th>📊 Data Wizardry</th>
-    <th>🧠 AI & Machine Learning</th>
-    <th>🛠️ Web & Database Magic</th>
-  </tr>
-  <tr>
-    <td>Data Analysis & Visualization</td>
-    <td>Natural Language Processing (NLP)</td>
-    <td>Web Scraping</td>
-  </tr>
-  <tr>
-    <td>Data Cleaning & Preprocessing</td>
-    <td>Machine Learning</td>
-    <td>Database Management</td>
-  </tr>
-</table>
+- **📊 Data Mastery**
+  - Data Analysis & Visualization
+  - Data Cleaning & Preprocessing
 
-</div>
+- **🧠 AI & Machine Learning**
+  - Natural Language Processing (NLP)
+  - Machine Learning
+
+- **🛠️ Web & Database Expertise**
+  - Web Scraping
+  - Database Management
+
 
 
 
