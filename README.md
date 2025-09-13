@@ -4,8 +4,8 @@
 
 ### About Me
 
-Third-year Computer Science Engineering student passionate about turning data into insights.  
-Skilled in Python, NLP, and machine learning, with a focus on data analysis and problem-solving.
+Computer Science Engineering student passionate about turning data into insights.  
+Skilled in Python, Data Analytics NLP, and machine learning, with a focus on data analysis and problem-solving.
 
 ---
 
